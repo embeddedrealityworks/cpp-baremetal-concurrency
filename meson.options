@@ -1,0 +1,6 @@
+option(
+    'simulate_freestanding',
+    type: 'boolean',
+    value: false,
+    description: 'Simulate a freestanding environment (defines SIMULATE_FREESTANDING)',
+)
